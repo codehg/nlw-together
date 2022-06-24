@@ -1,4 +1,4 @@
-# README TREINAMENTO
+# README
 
 
 # Getting Started with Create React App
