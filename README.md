@@ -1,5 +1,5 @@
 # README TREINAMENTO
-Link de acesso https://letmeask-hugo.firebaseapp.com/rooms/-
+Link de acesso https://letmeask-hugo.firebaseapp.com/
 # README
 
 
